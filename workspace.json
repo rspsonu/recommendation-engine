@@ -1,0 +1,261 @@
+{
+  "id" : 1,
+  "name" : "Recommendation Engine",
+  "description" : "Description",
+  "lastModifiedDate" : "2023-01-01T06:38:23Z",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlICJSZWNvbW1lbmRhdGlvbiBFbmdpbmUiIHsKCiAgICBtb2RlbCB7CiAgICAgICAgd2Vic2l0ZSA9IHNvZnR3YXJlU3lzdGVtICJFLUNvbW1lcmNlIFdlYnNpdGUiICJFLWNvbW1lcmNlIHdlYnNpdGUgdGhhdCBkaXNwbGF5cyByZWNvbW1lbmRhdGlvbnMgdG8gYSB1c2VyIiAiRXh0ZXJuYWwgU3lzdGVtIgoKICAgICAgICBlY29tbURhdGFiYXNlID0gc29mdHdhcmVTeXN0ZW0gIkUtQ29tbWVyY2UgRGF0YWJhc2UiICJDb250YWlucyB1c2VyLCBpdGVtcyBhbmQgaW50ZXJhY3Rpb24gZGF0YSIgIkV4dGVybmFsIFN5c3RlbSIKCiAgICAgICAgcmVjb21tZW5kYXRpb25FbmdpbmUgPSBzb2Z0d2FyZVN5c3RlbSAiUmVjb21tZW5kYXRpb24gRW5naW5lIiAiQ3JlYXRlcyBpdGVtIHJlY29tbWVuZGF0aW9ucyBmb3IgYW4gZS1jb21tZXJjZSB3ZWJzaXRlIiB7CiAgICAgICAgICAgIHdlYnNpdGUgLT4gdGhpcyAiR2V0cyByZWNvbW1lbmRhdGlvbnMgZnJvbSIKICAgICAgICAgICAgd2Vic2l0ZSAtPiB0aGlzICJTZW5kcyBsaXZlIGRhdGEgdG8iCiAgICAgICAgICAgIGVjb21tRGF0YWJhc2UgLT4gdGhpcyAiU2VuZHMgaXRlbXMsIHVzZXJzIGFuZCBpbnRlcmFjdGlvbnMgZGF0YSB0byIKICAgICAgICAgICAgCiAgICAgICAgICAgIGFwaUFwcCA9IGNvbnRhaW5lciAiQVBJIEFwcGxpY2F0aW9uIiAiUHJvdmlkZXMgQVBJcyB0byBzdG9yZSBkYXRhIGFuZCBnZXQgcmVjb21tZW5kYXRpb25zIiB7CiAgICAgICAgICAgICAgICB3ZWJzaXRlIC0+IHRoaXMgIkdldHMgcmVjb21tZW5kYXRpb25zIGZyb20iCiAgICAgICAgICAgICAgICB3ZWJzaXRlIC0+IHRoaXMgIlNlbmRzIGxpdmUgZGF0YSB0byIKICAgICAgICAgICAgICAgIGVjb21tRGF0YWJhc2UgLT4gdGhpcyAiU2VuZHMgaGlzdG9yaWNhbCB1c2VycywgaXRlbXMgYW5kIGludGVyYWN0aW9ucyBkYXRhIHRvIgogICAgICAgICAgICB9CgogICAgICAgICAgICBzZWN1cml0eUFuZEF1dGggPSBjb250YWluZXIgIlNlY3VyaXR5ICYgQXV0aCIgIlVzZXMgQ29nbnRpbyBhbmQgV0FGIiB7CiAgICAgICAgICAgICAgICB0aGlzIC0+IGFwaUFwcCAiUHJvdmlkZXMgQXV0aGVudGljYXRpb24gYW5kIFNlY3VyaXR5IGZvciIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZGF0YWJhc2UgPSBjb250YWluZXIgIkRhdGFiYXNlIiAiUzMgYnVja2V0IGZvciBBbWF6b24gUGVyc29uYWxpemUiIHsKICAgICAgICAgICAgICAgIGFwaUFwcCAtPiB0aGlzICJTdG9yZXMgZGF0YSBpbiIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYW16UGVyc29uYWxpemUgPSBjb250YWluZXIgIkFtYXpvbiBQZXJzb25hbGl6ZSIgIlVzZXMgZGF0YSwgdHJhaW5zIG1vZGVscyBhbmQgcHJvdmlkZXMgcmVjb21tZW5kYXRpb25zIiB7CiAgICAgICAgICAgICAgICBhcGlBcHAgLT4gdGhpcyAiU2VuZHMgbGl2ZSBkYXRhIHRvIgogICAgICAgICAgICAgICAgYXBpQXBwIC0+IHRoaXMgIkdldHMgcmVjb21tZW5kYXRpb25zIGZyb20iCiAgICAgICAgICAgICAgICB0aGlzIC0+IGRhdGFiYXNlICJHZXRzIGhpc3RvcmljYWwgZGF0YSBmcm9tIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICBzeXN0ZW1Db250ZXh0IHJlY29tbWVuZGF0aW9uRW5naW5lICJSZWNvbW1lbmRhdGlvbkVuZ2luZSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciByZWNvbW1lbmRhdGlvbkVuZ2luZSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAoKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50ICJFeHRlcm5hbCBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKfQo="
+  },
+  "configuration" : { },
+  "model" : {
+    "softwareSystems" : [ {
+      "id" : "1",
+      "tags" : "Element,Software System,External System",
+      "name" : "E-Commerce Website",
+      "description" : "E-commerce website that displays recommendations to a user",
+      "relationships" : [ {
+        "id" : "4",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "Gets recommendations from"
+      }, {
+        "id" : "5",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "3",
+        "description" : "Sends live data to"
+      }, {
+        "id" : "8",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "7",
+        "description" : "Gets recommendations from"
+      }, {
+        "id" : "9",
+        "tags" : "Relationship",
+        "sourceId" : "1",
+        "destinationId" : "7",
+        "description" : "Sends live data to"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "2",
+      "tags" : "Element,Software System,External System",
+      "name" : "E-Commerce Database",
+      "description" : "Contains user, items and interaction data",
+      "relationships" : [ {
+        "id" : "6",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "3",
+        "description" : "Sends items, users and interactions data to"
+      }, {
+        "id" : "10",
+        "tags" : "Relationship",
+        "sourceId" : "2",
+        "destinationId" : "7",
+        "description" : "Sends historical users, items and interactions data to"
+      } ],
+      "location" : "Unspecified",
+      "documentation" : { }
+    }, {
+      "id" : "3",
+      "tags" : "Element,Software System",
+      "name" : "Recommendation Engine",
+      "description" : "Creates item recommendations for an e-commerce website",
+      "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "13",
+        "tags" : "Element,Container",
+        "name" : "Database",
+        "description" : "S3 bucket for Amazon Personalize"
+      }, {
+        "id" : "11",
+        "tags" : "Element,Container",
+        "name" : "Security & Auth",
+        "description" : "Uses Cogntio and WAF",
+        "relationships" : [ {
+          "id" : "12",
+          "tags" : "Relationship",
+          "sourceId" : "11",
+          "destinationId" : "7",
+          "description" : "Provides Authentication and Security for"
+        } ]
+      }, {
+        "id" : "15",
+        "tags" : "Element,Container",
+        "name" : "Amazon Personalize",
+        "description" : "Uses data, trains models and provides recommendations",
+        "relationships" : [ {
+          "id" : "18",
+          "tags" : "Relationship",
+          "sourceId" : "15",
+          "destinationId" : "13",
+          "description" : "Gets historical data from"
+        } ]
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container",
+        "name" : "API Application",
+        "description" : "Provides APIs to store data and get recommendations",
+        "relationships" : [ {
+          "id" : "14",
+          "tags" : "Relationship",
+          "sourceId" : "7",
+          "destinationId" : "13",
+          "description" : "Stores data in"
+        }, {
+          "id" : "16",
+          "tags" : "Relationship",
+          "sourceId" : "7",
+          "destinationId" : "15",
+          "description" : "Sends live data to"
+        }, {
+          "id" : "17",
+          "tags" : "Relationship",
+          "sourceId" : "7",
+          "destinationId" : "15",
+          "description" : "Gets recommendations from"
+        } ]
+      } ],
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemContextViews" : [ {
+      "softwareSystemId" : "3",
+      "key" : "RecommendationEngine",
+      "order" : 1,
+      "paperSize" : "A5_Landscape",
+      "dimensions" : {
+        "width" : 1616,
+        "height" : 1316
+      },
+      "enterpriseBoundaryVisible" : true,
+      "relationships" : [ {
+        "id" : "4",
+        "vertices" : [ {
+          "x" : 283,
+          "y" : 658
+        } ]
+      }, {
+        "id" : "5",
+        "vertices" : [ {
+          "x" : 625,
+          "y" : 680
+        } ]
+      }, {
+        "id" : "6"
+      } ],
+      "elements" : [ {
+        "id" : "1",
+        "x" : 208,
+        "y" : 208
+      }, {
+        "id" : "2",
+        "x" : 958,
+        "y" : 208
+      }, {
+        "id" : "3",
+        "x" : 583,
+        "y" : 803
+      } ]
+    } ],
+    "containerViews" : [ {
+      "softwareSystemId" : "3",
+      "key" : "RecommendationEngine-Container",
+      "order" : 2,
+      "paperSize" : "A4_Landscape",
+      "dimensions" : {
+        "width" : 3358,
+        "height" : 2270
+      },
+      "externalSoftwareSystemBoundariesVisible" : true,
+      "relationships" : [ {
+        "id" : "18",
+        "vertices" : [ {
+          "x" : 2060,
+          "y" : 1425
+        } ]
+      }, {
+        "id" : "17",
+        "vertices" : [ {
+          "x" : 1825,
+          "y" : 1415
+        } ]
+      }, {
+        "id" : "16",
+        "vertices" : [ {
+          "x" : 1555,
+          "y" : 1415
+        } ]
+      }, {
+        "id" : "14",
+        "vertices" : [ {
+          "x" : 2166,
+          "y" : 1091
+        } ]
+      }, {
+        "id" : "12"
+      }, {
+        "id" : "8",
+        "vertices" : [ {
+          "x" : 1506,
+          "y" : 771
+        } ]
+      }, {
+        "id" : "10",
+        "vertices" : [ {
+          "x" : 1876,
+          "y" : 726
+        } ]
+      }, {
+        "id" : "9",
+        "vertices" : [ {
+          "x" : 1301,
+          "y" : 836
+        } ]
+      } ],
+      "elements" : [ {
+        "id" : "11",
+        "x" : 726,
+        "y" : 946
+      }, {
+        "id" : "1",
+        "x" : 1071,
+        "y" : 315
+      }, {
+        "id" : "13",
+        "x" : 2181,
+        "y" : 946
+      }, {
+        "id" : "2",
+        "x" : 1836,
+        "y" : 315
+      }, {
+        "id" : "15",
+        "x" : 1461,
+        "y" : 1571
+      }, {
+        "id" : "7",
+        "x" : 1461,
+        "y" : 946
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : {
+        "elements" : [ {
+          "tag" : "External System",
+          "background" : "#999999"
+        } ]
+      },
+      "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
+      "terminology" : { },
+      "lastSavedView" : "RecommendationEngine-Container"
+    }
+  }
+}
